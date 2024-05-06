@@ -24,4 +24,3 @@ This token is designed for use within the Ebukizy ecosystem. Holders can partici
 ## License
 
 This project is licensed under the MIT License.
-g
